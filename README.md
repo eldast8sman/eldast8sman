@@ -5,3 +5,5 @@ Hello, My name is Omotolani Olurotimi. I am a Software Developer who is speciali
 I am also familiar with Python, React and Node
 
 I am proficient with CI/CD using github actions and PHPUnit
+
+I am also familiar with AWS services
